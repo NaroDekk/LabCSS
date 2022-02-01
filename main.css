@@ -17,3 +17,32 @@ h2{
 p span{
     background-color: aqua;
 }
+
+.maClass1{
+    background-color: aquamarine;
+    font-style: italic;
+    border-style: dashed;
+    border-color: brown;
+    border-radius: 3%;
+}
+
+.maClass2{
+    background-color: chartreuse;
+    font-style: italic;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 3%;
+}
+
+.classid1{
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.classid2{
+    font-style: italic;
+}
+
+#id1{
+    background-color: blanchedalmond;
+}
