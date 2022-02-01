@@ -1,0 +1,19 @@
+h1{
+    color:red;
+    border: dashed green 2px;
+    text-align: center;
+}
+
+h3, h4{
+    color:red;
+    border: dashed green 2px;
+}
+
+h2{
+    color:blue;
+    border: solid red 2px;
+}
+
+p span{
+    background-color: aqua;
+}
